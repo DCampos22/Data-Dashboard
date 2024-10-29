@@ -17,12 +17,19 @@ The following **required** functionality is completed:
   -  [x] **Number of recipes that meet the current search or filter criteria**
 - [x] **A search bar allows the user to search for an item in the fetched data**
 - [x] **Multiple different filters (2+) allow the user to filter items in the database by specified categories**
+- [x] **The app includes at least one unique chart developed using the fetched data that tell an interesting story**
+- [ ] **Clicking on an item in the list view displays more details about it**
+  - [ ] To ensure an accurate grade, your sidebar **must** be viewable when showing the details view in your recording.
+- [ ] **Clicking on an item has a direct, unique link to that item's detail view page**
+  - [ ] To ensure an accurate grade, the URL/address bar of your web browser **must** be viewable in your recording.
 
 The following **optional** features are implemented:
 
 - [x] Multiple filters can be applied simultaneously
 - [x] Filters use different input types such as a text input, a selection, or a slider
 - [ ] The user can enter specific bounds for filter values
+- [x] The site's customized dashboard contains more content that explains what is interesting about the data
+- [x] The site allows users to toggle between different data visualizations
 
 
 ## Video Walkthrough
